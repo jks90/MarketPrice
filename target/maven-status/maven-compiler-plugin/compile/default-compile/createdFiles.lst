@@ -1,0 +1,11 @@
+com\jkstic\marketprice\config\SwaggerConfig.class
+com\jkstic\marketprice\controllers\MarketPriceController.class
+com\jkstic\marketprice\dto\MarketDto$MarketDtoBuilder.class
+com\jkstic\marketprice\persistence\Memory.class
+com\jkstic\marketprice\components\MyApplicationContextAware.class
+com\jkstic\marketprice\services\MarketPricesService.class
+com\jkstic\marketprice\services\impl\MarketPricesServiceImpl.class
+com\jkstic\marketprice\dto\MarketDto.class
+com\jkstic\marketprice\MarketPriceApplication.class
+com\jkstic\marketprice\components\WsServerMarketPrice.class
+com\jkstic\marketprice\config\MarketPriceWsConfig.class
